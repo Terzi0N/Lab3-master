@@ -1,0 +1,9 @@
+﻿  task5_main.c
+c:\users\geralt\desktop\lab3-master\task5_while\task5_main.c(18): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+  task5_func.c
+c:\users\geralt\desktop\lab3-master\task5_while\task5_func.c(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\geralt\desktop\lab3-master\task5_while\task5_func.c(8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+c:\users\geralt\desktop\lab3-master\task5_while\task5_func.c(21): warning C4715: findFirstNegativeElement: значение возвращается не при всех путях выполнения
+  task5_while.vcxproj -> C:\Users\Geralt\Desktop\Lab3-master\x64\Debug\task5_while.exe
+  task5_while.vcxproj -> C:\Users\Geralt\Desktop\Lab3-master\x64\Debug\task5_while.pdb (Partial PDB)

@@ -1,0 +1,6 @@
+﻿  task1_main.c
+c:\users\geralt\desktop\lab3-master\task1_while\task1_main.c(14): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+  task1_func.c
+  Создание кода...
+  task1_while.vcxproj -> C:\Users\Geralt\Desktop\Lab3-master\x64\Debug\task1_while.exe
+  task1_while.vcxproj -> C:\Users\Geralt\Desktop\Lab3-master\x64\Debug\task1_while.pdb (Partial PDB)

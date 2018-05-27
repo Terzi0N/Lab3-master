@@ -1,0 +1,8 @@
+﻿  task5_main.c
+c:\users\geralt\desktop\lab3-master\task5_for\task5_main.c(18): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+  task5_func.c
+c:\users\geralt\desktop\lab3-master\task5_for\task5_func.c(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+c:\users\geralt\desktop\lab3-master\task5_for\task5_func.c(8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  task5_for.vcxproj -> C:\Users\Geralt\Desktop\Lab3-master\x64\Debug\task5_for.exe
+  task5_for.vcxproj -> C:\Users\Geralt\Desktop\Lab3-master\x64\Debug\task5_for.pdb (Partial PDB)

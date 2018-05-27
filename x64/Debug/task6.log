@@ -1,0 +1,14 @@
+﻿  task6_main.c
+c:\users\geralt\desktop\lab3-master\task6\task6_main.c(11): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\geralt\desktop\lab3-master\task6\task6_main.c(20): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+  task5_func.c
+c1 : fatal error C1083: Не удается открыть файл источник: ..\..\..\..\..\Документы\Visual Studio 2017\Projects\Lab_3\task5_for\task5_func.c: No such file or directory
+  task4_func.c
+c1 : fatal error C1083: Не удается открыть файл источник: ..\..\..\..\..\Документы\Visual Studio 2017\Projects\Lab_3\task4_for\task4_func.c: No such file or directory
+  task3_func.c
+c1 : fatal error C1083: Не удается открыть файл источник: ..\..\..\..\..\Документы\Visual Studio 2017\Projects\Lab_3\task3_for\task3_func.c: No such file or directory
+  task2_func.c
+c1 : fatal error C1083: Не удается открыть файл источник: ..\..\..\..\..\Документы\Visual Studio 2017\Projects\Lab_3\task2_for\task2_func.c: No such file or directory
+  task1_func.c
+c1 : fatal error C1083: Не удается открыть файл источник: ..\..\..\..\..\Документы\Visual Studio 2017\Projects\Lab_3\task1_for\task1_func.c: No such file or directory
+  Создание кода...

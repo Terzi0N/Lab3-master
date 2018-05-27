@@ -1,0 +1,8 @@
+﻿  task3_main.c
+c:\users\geralt\desktop\lab3-master\task3_do_while\task3_main.c(12): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+  task3_func.c
+c:\users\geralt\desktop\lab3-master\task3_do_while\task3_func.c(5): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\geralt\desktop\lab3-master\task3_do_while\task3_func.c(9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  task3_do_while.vcxproj -> C:\Users\Geralt\Desktop\Lab3-master\x64\Debug\task3_do_while.exe
+  task3_do_while.vcxproj -> C:\Users\Geralt\Desktop\Lab3-master\x64\Debug\task3_do_while.pdb (Partial PDB)

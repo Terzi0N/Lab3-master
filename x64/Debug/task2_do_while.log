@@ -1,0 +1,9 @@
+﻿  task2_main.c
+c:\users\geralt\desktop\lab3-master\task2_do_while\task2_main.c(13): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+  task2_func.c
+c:\users\geralt\desktop\lab3-master\task2_do_while\task2_func.c(7): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\geralt\desktop\lab3-master\task2_do_while\task2_func.c(8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\geralt\desktop\lab3-master\task2_do_while\task2_func.c(4): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+  task2_do_while.vcxproj -> C:\Users\Geralt\Desktop\Lab3-master\x64\Debug\task2_do_while.exe
+  task2_do_while.vcxproj -> C:\Users\Geralt\Desktop\Lab3-master\x64\Debug\task2_do_while.pdb (Partial PDB)
